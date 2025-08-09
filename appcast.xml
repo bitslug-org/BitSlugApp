@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+    <channel>
+        <title>BitSlug Updates</title>
+        <link>https://bitslug-org.github.io/BitSlugApp</link>
+        <description>Automatic updates for BitSlug - The unofficial Bitrise client for macOS</description>
+        <language>en</language>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Sun, 10 Aug 2025 00:23:23 +0200</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://bitslug-org.github.io/BitSlugApp/BitSlug-1.0.0b6.zip" length="3299066" type="application/octet-stream"/>
+        </item>
+        <item>
+            <title>Version 1.0.0b6</title>
+            <description><![CDATA[
+        <h2>🎉 What's New in BitSlug 1.0.0b6</h2>
+        <ul>
+          <li>✨ New features and improvements</li>
+          <li>🐛 Bug fixes and stability improvements</li>
+          <li>⚡ Performance optimizations</li>
+          <li>🔒 Security enhancements</li>
+        </ul>
+        <p><strong>Update now to get the latest improvements!</strong></p>
+      ]]></description>
+            <pubDate>Sun, 10 Aug 2025 00:23:23 +0200</pubDate>
+            <enclosure url="https://bitslug-org.github.io/BitSlugApp/releases/BitSlug-1.0.0b6.zip" length="5080071" type="application/octet-stream" sparkle:version="1.0.0b6" sparkle:shortVersionString="1.0.0b6" sparkle:edSignature="i5AGvrLR/MkmCE3wwvbbejHBmxhUCbOFmy85OMV/nxDatmMb3yvG/1brxEIcUsZhTXMXkOvMq+yt6jNbyqv+Bw=="/>
+        </item>
+    </channel>
+</rss>
