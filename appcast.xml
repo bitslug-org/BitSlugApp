@@ -6,12 +6,29 @@
         <description>Automatic updates for BitSlug - The unofficial Bitrise client for macOS</description>
         <language>en</language>
         <item>
-            <title>1.0.0</title>
-            <pubDate>Sun, 10 Aug 2025 00:23:23 +0200</pubDate>
-            <sparkle:version>6</sparkle:version>
+            <title>BitSlug 1.0.0</title>
+            <description><![CDATA[
+        <h1>🚀 Release Notes – v1.0.0</h1>
+        <p>We're excited to introduce the <strong>first official release</strong> of <strong>Unofficial Bitrise Client</strong> — a modern, native macOS application to monitor and manage your Bitrise projects with ease.</p>
+        
+        <h2>✨ Main Points</h2>
+        <ul>
+          <li><strong>Build Monitoring</strong> – Keep track of your Bitrise builds in real time, with live status updates.</li>
+          <li><strong>Pipeline Management</strong> – View and manage your pipelines directly from the macOS app.</li>
+          <li><strong>Workflow Control</strong> – Trigger, stop, and manage workflows without leaving your desktop.</li>
+          <li><strong>Native macOS Experience</strong> – Enjoy a sleek, fast, and lightweight interface designed specifically for macOS.</li>
+          <li><strong>Secure Authentication</strong> – Connect safely to your Bitrise account.</li>
+          <li><strong>Project Overview</strong> – Quickly access builds, logs, and essential project details in one place.</li>
+        </ul>
+        
+        <h2>🌐 Read more</h2>
+        <p>For more information, visit: <a href="https://bitslug-org.github.io/">bitslug-org.github.io</a></p>
+      ]]></description>
+            <pubDate>Mon, 19 Aug 2025 12:21:00 +0200</pubDate>
+            <sparkle:version>7</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://bitslug-org.github.io/BitSlugApp/BitSlug-1.0.0b6.zip" length="3299066" type="application/octet-stream"/>
+            <enclosure url="https://bitslug-org.github.io/BitSlugApp/releases/BitSlug_v1.0.0.zip" length="3308882" type="application/octet-stream"/>
         </item>
         <item>
             <title>Version 1.0.0b6</title>
