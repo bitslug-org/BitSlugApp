@@ -6,6 +6,29 @@
         <description>Automatic updates for BitSlug - The unofficial Bitrise client for macOS</description>
         <language>en</language>
         <item>
+          <title>BitSlug 1.0.1</title>
+          <description><![CDATA[
+            <h1>🚀 Release Notes – v1.0.1</h1>
+            <p>This update focuses on improving the user experience, refining interface details, and introducing new functionality for a smoother workflow in <strong>BitSlug</strong>.</p>
+            
+            <h2>🛠️ Improvements & Fixes</h2>
+            <ul>
+              <li>✅ <strong>Fixed status icon</strong> for pipeline items — icons now correctly reflect real-time build states.</li>
+              <li>⭐ <strong>Implemented Builds Watchlist</strong> — keep an eye on selected builds and track their progress effortlessly.</li>
+              <li>🐞 <strong>Fixed empty branch field</strong> — branch names now display correctly across all build views.</li>
+              <li>🎨 <strong>In-App Settings UI/UX Refactor</strong> — cleaner design, better organization, and smoother interactions.</li>
+            </ul>
+
+            <h2>🌐 Read more</h2>
+            <p>For more information, visit: <a href="https://bitslug-org.github.io/">bitslug-org.github.io</a></p>
+          ]]></description>
+          <pubDate>Mon, 06 Oct 2025 12:00:00 +0200</pubDate>
+          <sparkle:version>9</sparkle:version>
+          <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+          <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+          <enclosure url="https://bitslug-org.github.io/BitSlugApp/releases/BitSlug_v1.0.1.zip" length="5909099" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>BitSlug 1.0.0</title>
             <description><![CDATA[
         <h1>🚀 Release Notes – v1.0.0</h1>
