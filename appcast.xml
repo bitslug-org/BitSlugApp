@@ -23,7 +23,7 @@
             <sparkle:version>9</sparkle:version>
             <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="/releases/BitSlug_v1.0.1.zip" length="5909281" type="application/octet-stream" sparkle:edSignature="jUfKgxSyq1fXte28/D5u6rpjrgU+bKpjKmMF4UKuULTNTFTJQDJuO/nK5e+PjX5KLJl0GGcVp9j0IvrKzLL7CQ=="/>
+            <enclosure url="https://github.com/bitslug-org/BitSlugApp/raw/refs/heads/gh-pages/releases/BitSlug_v1.0.1.zip" length="5909249" type="application/octet-stream" sparkle:edSignature="jUfKgxSyq1fXte28/D5u6rpjrgU+bKpjKmMF4UKuULTNTFTJQDJuO/nK5e+PjX5KLJl0GGcVp9j0IvrKzLL7CQ=="/>
         </item>
     </channel>
 </rss>
