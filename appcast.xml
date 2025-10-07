@@ -1,72 +1,29 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>BitSlug Updates</title>
-        <link>https://bitslug-org.github.io/BitSlugApp</link>
-        <description>Automatic updates for BitSlug - The unofficial Bitrise client for macOS</description>
-        <language>en</language>
+        <title>BitSlug</title>
         <item>
-          <title>BitSlug 1.0.1</title>
-          <description><![CDATA[
-            <h1>🚀 Release Notes – v1.0.1</h1>
-            <p>This update focuses on improving the user experience, refining interface details, and introducing new functionality for a smoother workflow in <strong>BitSlug</strong>.</p>
-            
-            <h2>🛠️ Improvements & Fixes</h2>
-            <ul>
+            <title>1.0.1</title>
+            <description><![CDATA[
+              <h1>🚀 Release Notes – v1.0.1</h1>
+              <p>This update focuses on improving the user experience, refining interface details, and introducing new functionality for a smoother workflow in <strong>BitSlug</strong>.</p>
+              
+              <h2>🛠️ Improvements & Fixes</h2>
+              <ul>
               <li>✅ <strong>Fixed status icon</strong> for pipeline items — icons now correctly reflect real-time build states.</li>
               <li>⭐ <strong>Implemented Builds Watchlist</strong> — keep an eye on selected builds and track their progress effortlessly.</li>
               <li>🐞 <strong>Fixed empty branch field</strong> — branch names now display correctly across all build views.</li>
               <li>🎨 <strong>In-App Settings UI/UX Refactor</strong> — cleaner design, better organization, and smoother interactions.</li>
-            </ul>
-
-            <h2>🌐 Read more</h2>
-            <p>For more information, visit: <a href="https://bitslug-org.github.io/">bitslug-org.github.io</a></p>
-          ]]></description>
-          <pubDate>Mon, 06 Oct 2025 12:00:00 +0200</pubDate>
-          <sparkle:version>9</sparkle:version>
-          <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
-          <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-          <enclosure url="https://bitslug-org.github.io/BitSlugApp/releases/BitSlug_v1.0.1.zip" length="5909099" type="application/octet-stream"/>
-        </item>
-        <item>
-            <title>BitSlug 1.0.0</title>
-            <description><![CDATA[
-        <h1>🚀 Release Notes – v1.0.0</h1>
-        <p>We're excited to introduce the <strong>first official release</strong> of <strong>Unofficial Bitrise Client</strong> — a modern, native macOS application to monitor and manage your Bitrise projects with ease.</p>
-        
-        <h2>✨ Main Points</h2>
-        <ul>
-          <li><strong>Build Monitoring</strong> – Keep track of your Bitrise builds in real time, with live status updates.</li>
-          <li><strong>Pipeline Management</strong> – View and manage your pipelines directly from the macOS app.</li>
-          <li><strong>Workflow Control</strong> – Trigger, stop, and manage workflows without leaving your desktop.</li>
-          <li><strong>Native macOS Experience</strong> – Enjoy a sleek, fast, and lightweight interface designed specifically for macOS.</li>
-          <li><strong>Secure Authentication</strong> – Connect safely to your Bitrise account.</li>
-          <li><strong>Project Overview</strong> – Quickly access builds, logs, and essential project details in one place.</li>
-        </ul>
-        
-        <h2>🌐 Read more</h2>
-        <p>For more information, visit: <a href="https://bitslug-org.github.io/">bitslug-org.github.io</a></p>
-      ]]></description>
-            <pubDate>Mon, 19 Aug 2025 12:21:00 +0200</pubDate>
-            <sparkle:version>8</sparkle:version>
-            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+              </ul>
+              
+              <h2>🌐 Read more</h2>
+              <p>For more information, visit: <a href="https://bitslug-org.github.io/">bitslug-org.github.io</a></p>
+            ]]></description>
+            <pubDate>Mon, 06 Oct 2025 22:15:30 +0200</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://bitslug-org.github.io/BitSlugApp/releases/BitSlug_v1.0.0.zip" length="3308882" type="application/octet-stream"/>
-        </item>
-        <item>
-            <title>Version 1.0.0b6</title>
-            <description><![CDATA[
-        <h2>🎉 What's New in BitSlug 1.0.0b6</h2>
-        <ul>
-          <li>✨ New features and improvements</li>
-          <li>🐛 Bug fixes and stability improvements</li>
-          <li>⚡ Performance optimizations</li>
-          <li>🔒 Security enhancements</li>
-        </ul>
-        <p><strong>Update now to get the latest improvements!</strong></p>
-      ]]></description>
-            <pubDate>Sun, 10 Aug 2025 00:23:23 +0200</pubDate>
-            <enclosure url="https://bitslug-org.github.io/BitSlugApp/releases/BitSlug-1.0.0b6.zip" length="5080071" type="application/octet-stream" sparkle:version="1.0.0b6" sparkle:shortVersionString="1.0.0b6" sparkle:edSignature="i5AGvrLR/MkmCE3wwvbbejHBmxhUCbOFmy85OMV/nxDatmMb3yvG/1brxEIcUsZhTXMXkOvMq+yt6jNbyqv+Bw=="/>
+            <enclosure url="/releases/BitSlug_v1.0.1.zip" length="5909281" type="application/octet-stream" sparkle:edSignature="jUfKgxSyq1fXte28/D5u6rpjrgU+bKpjKmMF4UKuULTNTFTJQDJuO/nK5e+PjX5KLJl0GGcVp9j0IvrKzLL7CQ=="/>
         </item>
     </channel>
 </rss>
