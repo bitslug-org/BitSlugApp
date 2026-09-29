@@ -1,29 +1,24 @@
-<?xml version="1.0" standalone="yes"?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
-    <channel>
-        <title>BitSlug</title>
-        <item>
-            <title>1.0.1</title>
-            <description><![CDATA[
-              <h1>🚀 Release Notes – v1.0.1</h1>
-              <p>This update focuses on improving the user experience, refining interface details, and introducing new functionality for a smoother workflow in <strong>BitSlug</strong>.</p>
-              
-              <h2>🛠️ Improvements & Fixes</h2>
-              <ul>
-              <li>✅ <strong>Fixed status icon</strong> for pipeline items — icons now correctly reflect real-time build states.</li>
-              <li>⭐ <strong>Implemented Builds Watchlist</strong> — keep an eye on selected builds and track their progress effortlessly.</li>
-              <li>🐞 <strong>Fixed empty branch field</strong> — branch names now display correctly across all build views.</li>
-              <li>🎨 <strong>In-App Settings UI/UX Refactor</strong> — cleaner design, better organization, and smoother interactions.</li>
-              </ul>
-              
-              <h2>🌐 Read more</h2>
-              <p>For more information, visit: <a href="https://bitslug-org.github.io/">bitslug-org.github.io</a></p>
-            ]]></description>
-            <pubDate>Tue, 07 Oct 2025 11:13:22 +0200</pubDate>
-            <sparkle:version>9</sparkle:version>
-            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/bitslug-org/BitSlugApp/raw/refs/heads/gh-pages/releases/BitSlug_v1.0.1.zip" length="5909249" type="application/octet-stream" sparkle:edSignature="YxMMtJpU2JcotwYJinubrMA2pTB9ZN9XI8lAqIDmsIA7AER/BiucIdimcAehYaUjBhjpsK6KNrKUDZTySqDjAA=="/>
-        </item>
-    </channel>
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>BitSlug</title>
+    <item>
+      <title>1.0.2</title>
+      <description><![CDATA[
+        <h2>What's new in BitSlug 1.0.2</h2>
+        <ul>
+          <li>Fix Double Dialog On Pipeline Abort</li>
+          <li>144 watchlist build improvements</li>
+          <li>146 autowatch triggered build</li>
+          <li>141 | Fix Notifications Authorization Preference</li>
+          <li>142 fix credit hidden when cost is not available</li>
+        </ul>
+      ]]></description>
+      <pubDate>Tue, 29 Sep 2026 15:46:20 GMT</pubDate>
+      <sparkle:version>10</sparkle:version>
+      <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/bitslug-org/BitSlugApp/releases/download/1.0.2-10/BitSlug_v1.0.2-10.zip" length="5849342" type="application/octet-stream" sparkle:edSignature="Gfb7UyRbhHV3i2rUQpavaMwyiZia96WvwvdxY2ygBb8KH/9bSLwY1cdZsWSCNcN+H426BYaOYenNbEAJ/z7uAw=="/>
+    </item>
+  </channel>
 </rss>
