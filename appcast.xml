@@ -3,22 +3,18 @@
   <channel>
     <title>BitSlug</title>
     <item>
-      <title>1.0.2</title>
+      <title>1.0.3</title>
       <description><![CDATA[
-        <h2>What's new in BitSlug 1.0.2</h2>
+        <h2>What's new in BitSlug 1.0.3</h2>
         <ul>
-          <li>Fix Double Dialog On Pipeline Abort</li>
-          <li>144 watchlist build improvements</li>
-          <li>146 autowatch triggered build</li>
-          <li>141 | Fix Notifications Authorization Preference</li>
-          <li>142 fix credit hidden when cost is not available</li>
+          <li>Add embedded MCP server and fix Release signing conflict</li>
         </ul>
       ]]></description>
-      <pubDate>Tue, 29 Sep 2026 15:46:20 GMT</pubDate>
-      <sparkle:version>10</sparkle:version>
-      <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+      <pubDate>Fri, 09 Oct 2026 19:52:18 GMT</pubDate>
+      <sparkle:version>11</sparkle:version>
+      <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/bitslug-org/BitSlugApp/releases/download/1.0.2-10/BitSlug_v1.0.2-10.zip" length="5849342" type="application/octet-stream" sparkle:edSignature="Gfb7UyRbhHV3i2rUQpavaMwyiZia96WvwvdxY2ygBb8KH/9bSLwY1cdZsWSCNcN+H426BYaOYenNbEAJ/z7uAw=="/>
+      <enclosure url="https://github.com/bitslug-org/BitSlugApp/releases/download/1.0.3-11/BitSlug_v1.0.3-11.zip" length="6001110" type="application/octet-stream" sparkle:edSignature="gUYOligphNxPnuy/WANivWCwzoKSVYnCKHM3CMWW+LUjsvDMIYNbmsyMsl7rsv+51wsd9oA22BDkcRC5HVCOAw=="/>
     </item>
   </channel>
 </rss>
