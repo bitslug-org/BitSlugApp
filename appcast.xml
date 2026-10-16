@@ -3,18 +3,18 @@
   <channel>
     <title>BitSlug</title>
     <item>
-      <title>1.0.3</title>
+      <title>1.0.4</title>
       <description><![CDATA[
-        <h2>What's new in BitSlug 1.0.3</h2>
+        <h2>What's new in BitSlug 1.0.4</h2>
         <ul>
-          <li>Add embedded MCP server and fix Release signing conflict</li>
+          <li>Add MCP tools to diagnose failed builds</li>
         </ul>
       ]]></description>
-      <pubDate>Fri, 09 Oct 2026 19:52:18 GMT</pubDate>
-      <sparkle:version>11</sparkle:version>
-      <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+      <pubDate>Fri, 16 Oct 2026 16:18:41 GMT</pubDate>
+      <sparkle:version>12</sparkle:version>
+      <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/bitslug-org/BitSlugApp/releases/download/1.0.3-11/BitSlug_v1.0.3-11.zip" length="6001110" type="application/octet-stream" sparkle:edSignature="gUYOligphNxPnuy/WANivWCwzoKSVYnCKHM3CMWW+LUjsvDMIYNbmsyMsl7rsv+51wsd9oA22BDkcRC5HVCOAw=="/>
+      <enclosure url="https://github.com/bitslug-org/BitSlugApp/releases/download/1.0.4-12/BitSlug_v1.0.4-12.zip" length="6165104" type="application/octet-stream" sparkle:edSignature="miTJxi4RQW25vWDClit5oPD5xzF/327n0uatWO/k6grFm4CaOoNG4vA+qohEi2TmzZNabh38G8I3lr1XbXC4Bg=="/>
     </item>
   </channel>
 </rss>
